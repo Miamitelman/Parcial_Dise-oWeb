@@ -333,7 +333,7 @@ img {
 
   .menu {
     flex-direction: row;
-    gap: 10px;
+    gap: 8px;
     justify-content: center;
     flex-wrap: wrap;
   }
@@ -365,5 +365,6 @@ img {
     margin: 0 auto;
   }
 }
+
 
 
